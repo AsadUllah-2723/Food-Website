@@ -1,0 +1,28 @@
+.nevbar{
+    align-items: center;
+    list-style: none;
+    justify-content: center;
+    display: flex;
+}
+
+.nevbar li{
+    margin: 0px 25px;
+}
+.nevbar li a{
+    text-decoration: none;
+    color: yellow;
+}
+
+.mobileNevbar{
+    list-style: none;
+}
+
+.mobileNevbar li{
+    margin-top: 20px;
+}
+
+.mobileNevbar li a{
+    text-decoration: none;
+    font-size: 2rem;
+    color: black;
+}
